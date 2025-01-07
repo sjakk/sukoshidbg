@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsukoshi.a CMakeFiles/libsukoshi.dir/libsukoshi.cpp.o
+/usr/bin/ranlib libsukoshi.a
