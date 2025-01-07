@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/sukoshi.dir/sukoshi.cpp.o -o sukoshi  ../src/libsukoshi.a
